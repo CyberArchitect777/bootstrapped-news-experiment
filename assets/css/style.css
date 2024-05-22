@@ -2,3 +2,12 @@
     background-color: darkred;
     color: white;
 }
+
+nav {
+    background-color: blue;
+    color: white;
+}
+
+.navbar-dark {
+    color: red;
+}
