@@ -11,3 +11,16 @@ nav {
 .navbar-dark {
     color: red;
 }
+
+a, .navbar-light .navbar-nav .active > .nav-link, i {
+    color: white;
+}
+
+ul {
+    display: flex;
+}
+
+ul.nav {
+    justify-content: center;
+    flex: 1;
+}
