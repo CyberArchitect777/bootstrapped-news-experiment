@@ -1,3 +1,6 @@
+
+/* Navbar styling */
+
 #brand {
     background-color: darkred;
     color: white;
@@ -23,4 +26,14 @@ ul {
 ul.nav {
     justify-content: center;
     flex: 1;
+}
+
+/* Headline section styling */
+
+h3 {
+    font-size: 1.25rem;
+}
+
+h4 {
+    font-size: 1rem;
 }
