@@ -8,24 +8,10 @@
 
 nav {
     background-color: blue;
+}
+
+.navbar .nav-link, .navbar-brand, #hamburger-menu {
     color: white;
-}
-
-.navbar-dark {
-    color: red;
-}
-
-a, .navbar-light .navbar-nav .active > .nav-link, i {
-    color: white;
-}
-
-ul {
-    display: flex;
-}
-
-ul.nav {
-    justify-content: center;
-    flex: 1;
 }
 
 /* Headline section styling */
