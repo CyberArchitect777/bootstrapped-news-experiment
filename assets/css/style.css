@@ -23,6 +23,10 @@ nav {
     color: white;
 }
 
+.navbar-nav {
+    margin-top: 9px;    
+}
+
 /* Main section styling */
 
 h3 {
