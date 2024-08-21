@@ -1,2 +1,4 @@
-# bootstrapped-news-experiment
-A simulated news front page built with Bootstrap 5.3
+
+# A Simulated News Bootstrapped Website
+
+Written in HTML, CSS and Bootstrap 5.3
