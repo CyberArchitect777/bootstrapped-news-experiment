@@ -64,6 +64,14 @@ h4 {
     object-fit: cover;
 }
 
+@media only screen and (min-width: 767px) {
+    .subheadtext {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 @media only screen and (min-width: 991px) {
     
     .border-lg-right {
@@ -79,11 +87,11 @@ h4 {
     }
 
     .subheadimgcontainer {
-        height: 175px;
+        width: auto;
     }
 
     .subheadimg {
-        height: 150px;
+        height: 100px;
         width: auto;
         margin: auto;
     }
