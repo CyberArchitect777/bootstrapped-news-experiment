@@ -56,6 +56,20 @@ h4 {
         border-bottom: 1px solid #e4e7ea;
     }
 
+    .border-lg-top {
+        border-top: 1px solid #e4e7ea;
+    }
+
+    .subheadimgcontainer {
+        height: 175px;
+    }
+
+    .subheadimg {
+        object-fit: cover;
+        height: 150px;
+        width: auto;
+        margin: auto;
+    }
     
 }
 
