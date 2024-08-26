@@ -83,7 +83,6 @@ h4 {
     }
 
     .subheadimg {
-        object-fit: cover;
         height: 150px;
         width: auto;
         margin: auto;
