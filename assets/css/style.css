@@ -46,6 +46,24 @@ h4 {
     text-decoration: underline;
 }
 
+.subheadimgcontainer {
+    max-width: 300px;
+    margin: auto;
+}
+
+.subheadimg {
+    object-fit: cover;
+}
+
+.headimgcontainer {
+    max-width: 300px;
+    margin: auto;
+}
+
+.headimg {
+    object-fit: cover;
+}
+
 @media only screen and (min-width: 991px) {
     
     .border-lg-right {
